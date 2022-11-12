@@ -1,2 +1,6 @@
 hello this is a sample file
+<<<<<<< HEAD
 this line was added by dinesh1
+=======
+this line was adeed by dinesh2
+>>>>>>> dinesh2
