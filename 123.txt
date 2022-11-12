@@ -1,3 +1,11 @@
 hello this is a sample file
 this line is added in master2 branch
+<<<<<<< HEAD
 this line was added by vaibhav
+=======
+<<<<<<< HEAD
+this line was added by vaibhav1
+=======
+this line was added by vaibhav2
+>>>>>>> vaibhav2
+>>>>>>> vaibhav1
