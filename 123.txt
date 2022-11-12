@@ -1,2 +1,4 @@
+
 hello this is a sample file
 this line is added in master2 branch
+this line was added in branch dinesh2
