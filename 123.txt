@@ -2,6 +2,7 @@
 hello this is a sample file
 this line is added in master2 branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 this line is added in branch dinesh
 =======
 <<<<<<< HEAD
@@ -10,3 +11,13 @@ this line was added by dinessh1
 this line was added in branch dinesh2
 >>>>>>> dinesh2
 >>>>>>> dinesh1
+=======
+this line was added by vaibhav
+=======
+<<<<<<< HEAD
+this line was added by vaibhav1
+=======
+this line was added by vaibhav2
+>>>>>>> vaibhav2
+>>>>>>> vaibhav1
+>>>>>>> vaibhav
