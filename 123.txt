@@ -1,6 +1,7 @@
 hello this is a sample file
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 this line is now added in branch dinesh
 =======
 <<<<<<< HEAD
@@ -10,6 +11,8 @@ this line was adeed by dinesh2
 >>>>>>> dinesh2
 >>>>>>> dinesh1
 =======
+=======
+>>>>>>> vaibhav
 this line was added by vaibhav
 =======
 <<<<<<< HEAD
@@ -18,4 +21,7 @@ this line was added by vaibhav2
 this line was added by vaibhav1
 >>>>>>> vaibhav1
 >>>>>>> vaibhav1
+<<<<<<< HEAD
+>>>>>>> vaibhav
+=======
 >>>>>>> vaibhav
