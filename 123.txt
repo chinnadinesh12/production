@@ -1,3 +1,8 @@
+
 hello this is a sample file
 this line is added in master2 branch
+<<<<<<< HEAD
 this line was added by dinessh1
+=======
+this line was added in branch dinesh2
+>>>>>>> dinesh2
